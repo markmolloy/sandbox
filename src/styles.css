@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Alegreya', serif;
+*/
+
+:root {
+    --color-void: #0e0b16;
+    --color-fuschia: #a239ca;
+    --color-jewel: #4717f6;
+    --color-stark: #e7dfdd; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
